@@ -37,6 +37,7 @@ It features:
 
 
 further references:     
+- https://hibernate.org/search/documentation/getting-started/
 - https://lucene.apache.org/
 - https://www.elastic.co/elasticsearch/
 - https://www.elastic.co/kibana
